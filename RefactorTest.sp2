@@ -20,6 +20,9 @@ add_or_replace "data/custom_obj/galaxy_shrink_platform/" "galaxy_shrink_platform
 add_or_replace "data/custom_obj/galaxy_shrink_platform/" "galaxy_shrink_platform.kcl" "Assets/GalaxyShrinkPlatform/galaxy_shrink_platform.kcl"
 add_or_replace "data/custom_obj/galaxy_shrink_platform/" "galaxy_shrink_platform_frame.bmd" "Assets/GalaxyShrinkPlatform/galaxy_shrink_platform_frame.bmd"
 
+# COSMIC CLONES
+add_or_replace "data/dynamic/" "cosmic_clones.dylb" empty_file
+
 # Colored Coin
 add_or_replace "data/dynamic/" "colored_coin.dylb" empty_file
 add_dir "data/custom_obj/" "colored_coin"
@@ -126,3 +129,30 @@ add_or_replace "data/dynamic/" "door_blocker.dylb" empty_file
 add_dir "data/custom_obj/" "door_blocker"
 add_or_replace "data/custom_obj/door_blocker/" "door_blocker.bmd" "Assets/DoorBlocker/door_blocker.bmd"
 add_or_replace "data/custom_obj/door_blocker/" "door_blocker.kcl" "Assets/DoorBlocker/door_blocker.kcl"
+
+# Mega Block
+add_or_replace "data/dynamic/" "mega_block.dylb" empty_file
+add_dir "data/custom_obj/" "mega_block"
+add_or_replace "data/custom_obj/mega_block/" "star_block.bmd" "Assets/MegaBlock/star_block.bmd"
+add_or_replace "data/custom_obj/mega_block/" "star_block.kcl" "Assets/MegaBlock/star_block.kcl"
+
+# Treasure Chest
+add_or_replace "data/dynamic/" "treasure_chest.dylb" empty_file
+add_dir "data/custom_obj/" "treasure_chest"
+add_or_replace "data/custom_obj/treasure_chest/" "t_box.bmd" "Assets/TreasureChest/t_box.bmd"
+add_or_replace "data/custom_obj/treasure_chest/" "t_box_open.bca" "Assets/TreasureChest/t_box_open.bca"
+
+# Skybox Rotator
+add_or_replace "data/dynamic/" "skybox-rotator.dylb" empty_file
+
+# Colored Pipe
+add_or_replace "data/dynamic/" "colored_pipe.dylb" empty_file
+add_dir "data/custom_obj/" "colored_pipe"
+add_or_replace "data/custom_obj/colored_pipe/" "obj_dokan.bmd" "Assets/ColoredPipe/obj_dokan.bmd"
+add_or_replace "data/custom_obj/colored_pipe/" "obj_dokan.kcl" "Assets/ColoredPipe/obj_dokan.kcl"
+
+# Peach NPC
+add_or_replace "data/dynamic/" "peach_npc.dylb" empty_file
+add_dir "data/custom_obj/" "peach_npc"
+add_or_replace "data/custom_obj/peach_npc/" "peach_low.bmd" "Assets/PeachNPC/peach_low.bmd"
+add_or_replace "data/custom_obj/peach_npc/" "peach_wait.bca" "Assets/PeachNPC/peach_wait.bca"

@@ -413,6 +413,12 @@ enum ActorIDs
 	TREE_SHADOW_ACTOR_ID                           = 408,
 	SAVE_BLOCK_ACTOR_ID                            = 409,
 	DOOR_BLOCKER_ACTOR_ID                          = 410,
+    SHADOW_CLONE_ACTOR_ID                          = 411,
+    MEGA_BLOCK_ACTOR_ID                            = 412,
+    TREASURE_CHEST_DL_ACTOR_ID                     = 413,
+    SKYBOX_ROTATOR_ACTOR_ID                        = 414,
+    COLORED_PIPE_ACTOR_ID                          = 415,
+    PEACH_NPC_ACTOR_ID                             = 416,
 };
 
 enum ObjectIDs
@@ -762,5 +768,11 @@ enum ObjectIDs
 	TREE_SHADOW_OBJECT_ID                           = 342,
 	SAVE_BLOCK_OBJECT_ID                            = 343,
 	DOOR_BLOCKER_OBJECT_ID                          = 344,
+    SHADOW_CLONE_OBJECT_ID                          = 345,
+    MEGA_BLOCK_OBJECT_ID                            = 346,
+    TREASURE_CHEST_DL_OBJECT_ID                     = 347,
+    SKYBOX_ROTATOR_OBJECT_ID                        = 348,
+    COLORED_PIPE_OBJECT_ID                          = 349,
+    PEACH_NPC_OBJECT_ID                             = 350,
 	MPCHANGE_OBJECT_ID                              = 511,
 };
